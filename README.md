@@ -1,2 +1,3 @@
 # CECS105
-Testing Web Edit
+Testing web edit
+Testing command line push
